@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+python-multipart
+pillow
+numpy
+opencv-python-headless
+google-genai
